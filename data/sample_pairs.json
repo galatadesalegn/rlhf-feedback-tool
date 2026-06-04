@@ -1,0 +1,20 @@
+[
+  {
+    "prompt": "Summarize the French Revolution in two sentences.",
+    "response_a": "The French Revolution was a period of radical political and societal change in France from 1789 to 1799. It led to the end of the monarchy, the rise of democracy, and inspired revolutions worldwide.",
+    "response_b": "France had a revolution from 1789 to 1799. The king was removed and many people were executed.",
+    "metadata": {
+      "category": "summarization",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "prompt": "How do I stay motivated when learning to code?",
+    "response_a": "Set SMART goals, follow a structured curriculum, and build projects. Join communities like Stack Overflow or Reddit's r/learnprogramming.",
+    "response_b": "The key is to build things you actually care about. Pick a small project that excites you — even something silly — and work toward that. Progress feels real when you can see something working. Also, don't compare your journey to others; everyone learns at a different pace.",
+    "metadata": {
+      "category": "advice",
+      "difficulty": "easy"
+    }
+  }
+]
